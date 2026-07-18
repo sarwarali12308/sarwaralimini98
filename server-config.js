@@ -33,7 +33,7 @@
 // and paste in the new URL.
 //
 // URL FORMAT EXAMPLES:
-//   Heroku  : https://your-app-name.herokuapp.com
+//   Heroku  : https://dr-honey-mini-fb6428f4790f.herokuapp.com/
 //   Railway : https://your-app.up.railway.app
 //   Render  : https://your-app.onrender.com
 //   Panel   : http://51.75.118.5:20221   (your VPS IP:port)
@@ -48,21 +48,21 @@ const SERVERS = [
         id: "heroku1",
         name: "Heroku 1",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-1-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
         id: "heroku2",
         name: "Heroku 2",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-2-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
         id: "heroku3",
         name: "Heroku 3",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-3-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
