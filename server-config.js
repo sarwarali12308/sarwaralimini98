@@ -34,7 +34,7 @@
 //
 // URL FORMAT EXAMPLES:
 //   Heroku  : https://dr-honey-mini-fb6428f4790f.herokuapp.com/
-//   Railway : https://your-app.up.railway.app
+//   Railway : https://ahmedmini-bot-production.up.railway.app/
 //   Render  : https://your-app.onrender.com
 //   Panel   : http://51.75.118.5:20221   (your VPS IP:port)
 // ============================================================================
@@ -69,14 +69,14 @@ const SERVERS = [
         id: "heroku4",
         name: "Heroku 4",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-4-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
         id: "heroku5",
         name: "Heroku 5",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-5-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
@@ -90,14 +90,14 @@ const SERVERS = [
         id: "heroku7",
         name: "Heroku 7",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-7-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
         id: "heroku8",
         name: "Heroku 8",
         group: "heroku",
-        url: "https://PASTE-YOUR-HEROKU-8-URL-HERE",
+        url: "https://dr-honey-mini-fb6428f4790f.herokuapp.com/",
         limit: 50,
     },
     {
@@ -402,14 +402,14 @@ const SERVERS = [
         id: "railway1",
         name: "Railway 1",
         group: "railway",
-        url: "https://PASTE-YOUR-RAILWAY-1-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50,
     },
     {
         id: "railway2",
         name: "Railway 2",
         group: "railway",
-        url: "https://PASTE-YOUR-RAILWAY-2-URL-HERE",
+        url: "https://ahmedmini-bot-production.up.railway.app/",
         limit: 50,
     },
 
